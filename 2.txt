@@ -1,2 +1,3 @@
 some changes
 this is update from master branch
+this is an update in feature2 branch 
